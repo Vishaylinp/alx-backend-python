@@ -4,4 +4,4 @@
 
 def to_str(n: float) -> str:
     """float to string"""
-    return n
+    return str(n)
